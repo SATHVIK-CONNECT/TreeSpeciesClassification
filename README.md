@@ -2,6 +2,7 @@
 
 # Overview
 This project uses deep learning techniques to identify tree species from images. It's implemented in Google Colab using Python libraries like TensorFlow, Keras, PIL, and Matplotlib. The model is trained using the Conv2D technique and deployed as a Streamlit app.
+Google Colab Link: https://drive.google.com/file/d/1zgcTbQwWcyb4lUmsbTlTV2c2w5Jq_MAb/view?usp=sharing
 
 # Project Structure
 - tree_species_identification.ipynb: The Google Colab notebook containing the code for data preprocessing, model training, and evaluation.
